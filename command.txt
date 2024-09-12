@@ -1,0 +1,5 @@
+chmod +x *
+
+pip install telebot
+
+python3 m.py
